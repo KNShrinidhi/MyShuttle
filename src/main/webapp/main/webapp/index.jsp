@@ -7,7 +7,7 @@
 <body>
 
   <h1>Login</h1>
-  <h2>DevOps Java for Quest-Global</h2>
+  <h2>DevOps Java to Quest-Global</h2>
   
   <form action="login" method="post">
     Employee email: <input type="text" id="email" name="email" /><br />
