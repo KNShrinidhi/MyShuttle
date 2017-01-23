@@ -7,7 +7,7 @@
 <body>
 
   <h1>Login</h1>
-  <h2>DevOps Java @Aspire System</h2>
+  <h2>DevOps Java </h2>
   
   <form action="login" method="post">
     Employee email: <input type="text" id="email" name="email" /><br />
