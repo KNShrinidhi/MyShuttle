@@ -9,6 +9,7 @@
 </head>
 <body>
 	<h1>TFS for Eclipse</h1>
+    
     <h1>Pull request for code review with Git</h1>
     <div class="container-fluid full-width-container">
         <section class="container-fluid">
