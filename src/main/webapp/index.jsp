@@ -8,9 +8,6 @@
     <link rel="stylesheet" type="text/css" href="Content/login.css">
 </head>
 <body>
-	<h1>TFS for Eclipse</h1>
-    <h1>Junit test</h1>
-    <h1>Sample Pull request</h1>
         <div class="container-fluid full-width-container">
         <section class="container-fluid">
             <div class="row">
