@@ -9,7 +9,7 @@
 </head>
 <body>
         <div class="container-fluid full-width-container">
-        <section class="container-fluid">
+        <section class="container-fluid"> 
             <div class="row">
                 <div class="login_container">
                     <div class="row login_header">
