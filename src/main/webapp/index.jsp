@@ -8,7 +8,6 @@
     <link rel="stylesheet" type="text/css" href="Content/login.css">
 </head>
 <body>
-<p>VSTS DevOps for Java Project</p>
         <div class="container-fluid full-width-container">
         <section class="container-fluid"> 
             <div class="row">
@@ -18,6 +17,7 @@
                     </div>
                     <div class="row">
                         <form action="login" method="post">
+						<p>VSTS DevOps for Java Project</p>
                             <div class="form-group">
                                 <h4><label class="control-label" for="UserName">Employee email</label></h4>
                                 <div class="form-control-div">
