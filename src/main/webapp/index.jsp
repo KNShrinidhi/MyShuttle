@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="Content/login.css">
 </head>
 <body>
-<p>VSTS DevOps for Java</p>
+<p>VSTS DevOps for Java Project</p>
         <div class="container-fluid full-width-container">
         <section class="container-fluid"> 
             <div class="row">
